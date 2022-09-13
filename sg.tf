@@ -1,0 +1,3 @@
+resource "securitygroup" "name" {
+
+}
